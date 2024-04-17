@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Runner.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Runner"
+      name = "Runner">
+      <FileRef
+         location = "group:Runner/Runner.entitlements">
+      </FileRef>
+      <Group
+         location = "group:Runner"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:Runner/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Runner/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:Runner"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:Runner/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Runner/Info.plist">
+      </FileRef>
+      <FileRef
+         location = "group:Runner/GeneratedPluginRegistrant.h">
+      </FileRef>
+      <FileRef
+         location = "group:Runner/GeneratedPluginRegistrant.m">
+      </FileRef>
+      <FileRef
+         location = "group:Runner/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Runner/Runner-Bridging-Header.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

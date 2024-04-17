@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="169" height="169" viewBox="0 0 169 169">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_575" data-name="Rectangle 575" width="120" height="120" transform="translate(0.385 -0.474)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_1027" data-name="Groupe 1027" transform="translate(-125 -601.086)">
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="84.5" cy="84.5" r="84.5" transform="translate(125 601.086)" fill="rgba(255,229,207,0.3)"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="74.5" cy="74.5" r="74.5" transform="translate(135 611.086)" fill="rgba(255,229,207,0.5)"/>
+    <g id="Groupe_de_masques_89" data-name="Groupe de masques 89" transform="translate(148.615 625.56)" clip-path="url(#clip-path)">
+      <g id="other-bank-card-svgrepo-com" transform="translate(0 0)">
+        <path id="Tracé_224" data-name="Tracé 224" d="M64.216,64.216m-59.983,0A59.983,59.983,0,1,0,64.216,4.233,59.983,59.983,0,0,0,4.233,64.216Z" transform="translate(-4.233 -4.233)" fill="#ffe5cf"/>
+        <path id="Tracé_225" data-name="Tracé 225" d="M38.947,45.345a6.881,6.881,0,0,1,6.4-6.4H99.729a5.467,5.467,0,0,1,5.6,5.6v35.99a5.467,5.467,0,0,1-5.6,5.6H45.345a5.467,5.467,0,0,1-5.6-5.6V45.345Z" transform="translate(-6.156 -6.156)" fill="#ffb791"/>
+        <path id="Tracé_226" data-name="Tracé 226" d="M29.633,51.318a5.467,5.467,0,0,1,5.6-5.6H89.616a5.467,5.467,0,0,1,5.6,5.6v35.99a5.467,5.467,0,0,1-5.6,5.6H35.232a5.467,5.467,0,0,1-5.6-5.6V51.318Z" transform="translate(-5.64 -6.531)" fill="#ff8746"/>
+        <path id="Tracé_227" data-name="Tracé 227" d="M29.633,55.033H95.215v6.4H29.633Zm5.6,20.794h12v8.8h-12Z" transform="translate(-5.64 -7.047)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

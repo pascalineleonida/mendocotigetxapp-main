@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="32" height="32" transform="translate(175 626)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_de_masques_12" data-name="Groupe de masques 12" transform="translate(-175 -626)" clip-path="url(#clip-path)">
+    <g id="_11-photo-s-svgrepo-com" data-name="11-photo-s-svgrepo-com" transform="translate(175 626)">
+      <path id="Tracé_26" data-name="Tracé 26" d="M4.876,4.876V32H32V4.876ZM29.562,29.562H7.314V7.314H29.562Z" fill="#0f0700"/>
+      <path id="Tracé_27" data-name="Tracé 27" d="M8.886,25.295h19.1a.518.518,0,0,0,.433-.8l-5.928-8.982a1.3,1.3,0,0,0-2.165,0l-4.176,6.355-2.3-2.613a1.3,1.3,0,0,0-2.055.146L8.452,24.492a.518.518,0,0,0,.433.8Z" fill="#0f0700"/>
+      <path id="Tracé_28" data-name="Tracé 28" d="M13.754,16.837a2.628,2.628,0,1,0-2.629-2.628A2.628,2.628,0,0,0,13.754,16.837Z" fill="#0f0700"/>
+      <path id="Tracé_29" data-name="Tracé 29" d="M27.124,2.438V0H0V27.124H2.438V2.438H27.124Z" fill="#0f0700"/>
+    </g>
+  </g>
+</svg>
